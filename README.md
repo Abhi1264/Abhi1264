@@ -1,4 +1,4 @@
-## Hi there, I'm Abhinav, software developer by day, poet by night.  👋
+## Hi there! I'm Abhinav, software developer by day, poet by night.  👋
 
 
 - 🔭 I’m currently working on client projects as an intern at a startup.
