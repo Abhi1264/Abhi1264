@@ -39,7 +39,7 @@ I’m a passionate full-stack developer and designer who loves building interact
   <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/></a>
   <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js"/></a>
   <a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/></a>
-  <a href="https://supabase.com/"><img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="40" alt="Supabase"/></a>
+  <a href="https://supabase.com/"><img src="https://seeklogo.com/images/S/supabase-logo-B058CC29CF-seeklogo.com.png" height="40" alt="Supabase"/></a>
   <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/></a>
   <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/></a>
   <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/></a>
@@ -47,14 +47,14 @@ I’m a passionate full-stack developer and designer who loves building interact
   <!-- Design Tools -->
   <a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/></a>
   <a href="https://www.framer.com/"><img src="https://avatars.githubusercontent.com/u/47217446?s=200&v=4" height="40" alt="Framer" style="border-radius:50%"/></a>
-  <a href="https://webflow.com/"><img src="https://uploads-ssl.webflow.com/5f64c6d5fd6d2361c6e3cfcd/639247aff11a4e0f5c203e1f_Webflow%20Logo%20Icon.png" height="40" alt="Webflow"/></a>
+  <a href="https://webflow.com/"><img src="https://assets-global.website-files.com/62bd9b5e9535f8191b518095/62c45c725f425a781ab06db0_Webflow%20Logo%20-%20W%20Mark%20-%20Blue-p-500.png" height="40" alt="Webflow"/></a>
 
-  <!-- Others -->
+  <!-- Editors -->
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/></a>
-  <a href="https://www.emailjs.com/"><img src="https://avatars.githubusercontent.com/u/47101361?s=200&v=4" height="40" alt="Email.js" style="border-radius:50%"/></a>
-  <a href="https://oframe.github.io/ogl/"><img src="https://avatars.githubusercontent.com/u/66432447?s=200&v=4" height="40" alt="OGL" style="border-radius:50%"/></a>
+  <a href="https://www.cursor.so/"><img src="https://avatars.githubusercontent.com/u/122902849?s=200&v=4" height="40" alt="Cursor" style="border-radius:50%"/></a>
 
 </p>
+
 
 
 ---
@@ -91,9 +91,9 @@ I’m a passionate full-stack developer and designer who loves building interact
 
 ---
 
-## 📊 Contribution Heatmap
+## 🐍 GitHub Contribution Snake
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abhi1264&theme=tokyo-night)](https://github.com/Abhi1264/github-readme-activity-graph)
+![snake gif](https://raw.githubusercontent.com/Abhi1264/Abhi1264/output/github-contribution-grid-snake.svg)
 
 ---
 
