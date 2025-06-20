@@ -39,7 +39,21 @@ I’m a passionate full-stack developer and designer who loves building interact
   <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/></a>
   <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js"/></a>
   <a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/></a>
-  <a href="https://supabase.com/"><img src="https://seeklogo.com/images/S/supabase-logo-B058CC29CF-seeklogo.com.png" height="40" alt="Supabase"/></a>
+  <a href="https://supabase.com/"><svg width="109" height="113" viewBox="0 0 109 113" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M63.7076 110.284C60.8481 113.885 55.0502 111.912 54.9813 107.314L53.9738 40.0627L99.1935 40.0627C107.384 40.0627 111.952 49.5228 106.859 55.9374L63.7076 110.284Z" fill="url(#paint0_linear)"/>
+<path d="M63.7076 110.284C60.8481 113.885 55.0502 111.912 54.9813 107.314L53.9738 40.0627L99.1935 40.0627C107.384 40.0627 111.952 49.5228 106.859 55.9374L63.7076 110.284Z" fill="url(#paint1_linear)" fill-opacity="0.2"/>
+<path d="M45.317 2.07103C48.1765 -1.53037 53.9745 0.442937 54.0434 5.041L54.4849 72.2922H9.83113C1.64038 72.2922 -2.92775 62.8321 2.1655 56.4175L45.317 2.07103Z" fill="#3ECF8E"/>
+<defs>
+<linearGradient id="paint0_linear" x1="53.9738" y1="54.974" x2="94.1635" y2="71.8295" gradientUnits="userSpaceOnUse">
+<stop stop-color="#249361"/>
+<stop offset="1" stop-color="#3ECF8E"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="36.1558" y1="30.578" x2="54.4844" y2="65.0806" gradientUnits="userSpaceOnUse">
+<stop/>
+<stop offset="1" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg></a>
   <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/></a>
   <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/></a>
   <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/></a>
@@ -47,7 +61,6 @@ I’m a passionate full-stack developer and designer who loves building interact
   <!-- Design Tools -->
   <a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/></a>
   <a href="https://www.framer.com/"><img src="https://avatars.githubusercontent.com/u/47217446?s=200&v=4" height="40" alt="Framer" style="border-radius:50%"/></a>
-  <a href="https://webflow.com/"><img src="https://assets-global.website-files.com/62bd9b5e9535f8191b518095/62c45c725f425a781ab06db0_Webflow%20Logo%20-%20W%20Mark%20-%20Blue-p-500.png" height="40" alt="Webflow"/></a>
 
   <!-- Editors -->
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/></a>
@@ -93,7 +106,7 @@ I’m a passionate full-stack developer and designer who loves building interact
 
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/Abhi1264/Abhi1264/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Abhi1264/Abhi1264/main/dist/github-contribution-grid-snake.svg)
 
 ---
 
