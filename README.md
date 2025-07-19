@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abhinav Kumar Choudhary
 
 🎓 B.Tech ECE @ BIT Mesra | 💻 Web Developer | 🎨 UI/UX Designer  
-🌐 [Portfolio](https://abhi1264.vercel.app/) | 📫 [Email](mailto:abhinav.kumar.1264@gmail.com) | 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/abhi1264/)  
+🌐 [Portfolio](https://abhinavkc.tech/) | 📫 [Email](mailto:abhinav.kumar.1264@gmail.com) | 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/abhi1264/)  
 
 ---
 
