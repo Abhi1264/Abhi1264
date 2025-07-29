@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abhinav Kumar Choudhary
 
 🎓 B.Tech ECE @ BIT Mesra | 💻 Web Developer | 🎨 UI/UX Designer  
-🌐 [Portfolio](https://abhinavkc.tech/) | 📫 [Email](mailto:abhinav.kumar.1264@gmail.com) | 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/abhi1264/)
+🌐 [Website](https://abhinavkc.tech/) | 📫 [Email](mailto:abhinav.kumar.1264@gmail.com) | 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/abhi1264/)
 
 ---
 
@@ -46,7 +46,7 @@ I'm a passionate full-stack developer and designer who loves building interactiv
 
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/Abhi1264/Abhi1264/main/dist/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Abhi1264/Abhi1264/main/dist/github-contribution-grid-snake-dark.svg)
 
 ---
 
