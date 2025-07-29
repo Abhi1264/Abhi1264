@@ -86,9 +86,9 @@ I'm a passionate full-stack developer and designer who loves building interactiv
 ## 🐍 GitHub Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhi1264/Abhi1264/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhi1264/Abhi1264/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Abhi1264/Abhi1264/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhi1264/Abhi1264/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhi1264/Abhi1264/dist/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Abhi1264/Abhi1264/dist/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
