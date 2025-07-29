@@ -125,14 +125,15 @@ I'm a passionate full-stack developer and designer who loves building interactiv
 
 ## 🏆 Achievements
 
-- 🥇 **Top 5** – CTF @ IEEE BIT Mesra (200+ teams)
-- 📈 **75K+ Hits** – Bitotsav’25 Website in 3 Days
+- 🚀 **800+ Contributions on GitHub** – Contributed actively to projects like OpenCut, Tweakcn, and 0.email
+- 🥇 **Top 5, CTF - IEEE, BIT Mesra** – Ranked 5th out of 200+ teams in a cyber security Capture the Flag event in a team of 3
+- 📈 **75K+ Hits in 3 Days - Bitotsav'25 Website** – Attracted 75K+ visits within 3 days of launch without performance bottlenecks
 
 ---
 
 ## 👥 Leadership Roles
 
-- 🎯 **General Secretary** – EDC, BIT Mesra
+- 🎯 **General Secretary, Entrepreneurship Development Cell, BIT Mesra** – Led the outreach, tech, design, documentation, and operations teams during E-Summit'25, Jharkhand's biggest entrepreneurial event at a technical institute, inviting guests like Dr. Vijendar Chauhan, Sairaj Dhond, etc.
 - 🎨 **Design Head** – IET, BIT Mesra
 - 🖌️ **Design Lead** – ECE Society
 - 💻 **Tech & Design Head** – The Literary Society
