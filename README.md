@@ -46,7 +46,7 @@ I'm a passionate full-stack developer and designer who loves building interactiv
 
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/Abhi1264/Abhi1264/main/dist/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Abhi1264/Abhi1264/main/dist/github-contribution-grid-snake.svg)
 
 ---
 
