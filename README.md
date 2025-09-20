@@ -133,7 +133,9 @@ I'm a passionate full-stack developer and designer who loves building interactiv
 
 ## 👥 Leadership Roles
 
-- 🎯 **General Secretary, Entrepreneurship Development Cell, BIT Mesra** – Led the outreach, tech, design, documentation, and operations teams during E-Summit'25, Jharkhand's biggest entrepreneurial event at a technical institute, inviting guests like Dr. Vijendar Chauhan, Sairaj Dhond, etc.
+- 🎯 **General Secretary, Entrepreneurship Development Cell, BIT Mesra** – Led the outreach, tech, design, operations, and
+sponsorship teams of 50+ members during Innovate-A-Thon 3.0, Jharkhand’s biggest Web3 hackathon, securing sponsorship by
+Coinbase (first in India) and inviting guests like Raj Vikramaditya (Striver) and Dr. Gajendra Purohit.
 - 🎨 **Design Head** – IET, BIT Mesra
 - 🖌️ **Design Lead** – ECE Society
 - 💻 **Tech & Design Head** – The Literary Society
